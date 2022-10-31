@@ -6,10 +6,11 @@
 - Edit Config => db.config.js
 - `nodemon index.js`
 
+
 ## API Endpoints
 
 | Methods  | Endpoints             | Description                                                           |
-| :------- | :-------------------  | :---------------------------------------------------------------------|                                                  |
+| :------- | :-------------------  | :---------------------------------------------------------------------|                                                
 | `GET`    | /barang               | Find All data barang                                                  |
 | `GET`    | /barang/id            | Find By Id data barang                                                |
 | `POST`   | /barang               | Create data barang                                                    |
