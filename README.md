@@ -6,7 +6,6 @@
 - Edit Config => db.config.js
 - `nodemon index.js`
 
-
 ## API Endpoints
 
 | Methods  | Endpoints             | Description                                                           |
