@@ -12,7 +12,7 @@
 | Methods  | Endpoints             | Description                                                           |
 | :------- | :-------------------  | :---------------------------------------------------------------------|                                                
 | `GET`    | /barang               | Find All data barang                                                  |
-| `GET`    | /barang/id            | Find By Id data barang                                                |
+| `GET`    | /barang/:id           | Find By Id data barang                                                |
 | `POST`   | /barang               | Create data barang                                                    |
-| `PUT`    | /api/aset/:id         | Update data barang                                                    |
-| `DELETE` | /api/aset             | Delete data barang By Id                                              |
+| `PUT`    | /barang/:id           | Update data barang                                                    |
+| `DELETE` | /barang/:id           | Delete data barang By Id                                              |
